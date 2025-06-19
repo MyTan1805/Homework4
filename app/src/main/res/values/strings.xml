@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Homework 4</string>
+
+    <!-- Main Screen Titles -->
+    <string name="title_countries">The Countries</string>
+    <string name="title_leaders">The leaders</string>
+    <string name="title_museums">The museums</string>
+    <string name="title_wonders">Seven Wonders of The World</string>
+
+    <!-- Country Data: United Kingdom -->
+    <string name="uk_title">United Kingdom</string>
+    <string name="uk_capital">London</string>
+    <string name="uk_largest_city">London</string>
+    <string name="uk_language">English</string>
+    <string name="uk_area">242,495 km2</string>
+    <string name="uk_currency">GBP</string>
+    <string name="uk_description">
+        The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376 km2). Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea, and the Irish Sea. The UK maintains sovereignty over the British Overseas Territories.
+    </string>
+
+    <!-- Country Data: France -->
+    <string name="france_title">France</string>
+    <string name="france_capital">Paris</string>
+    <string name="france_largest_city">Paris</string>
+    <string name="france_language">French</string>
+    <string name="france_area">551,695 km2</string>
+    <string name="france_currency">Euro (EUR)</string>
+    <string name="france_description">
+        France, in Western Europe, encompasses medieval cities, alpine villages, and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre, and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux’s ancient cave drawings, Lyon’s Roman theater, and the vast Palace of Versailles attest to its rich history.
+    </string>
+
+    <!-- Country Data: Italy -->
+    <string name="italy_title">Italy</string>
+    <string name="italy_capital">Rome</string>
+    <string name="italy_largest_city">Rome</string>
+    <string name="italy_language">Italian</string>
+    <string name="italy_area">301,340 km2</string>
+    <string name="italy_currency">Euro (EUR)</string>
+    <string name="italy_description">
+        Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces; Venice, the city of canals; and Milan, Italy’s fashion capital.
+    </string>
+
+    <!-- Winston Churchill -->
+    <string name="leader_churchill_title">Winston Churchill</string>
+    <string name="leader_churchill_details">Role: Prime Minister of the United Kingdom\nYears of Service: 1940–1945, 1951–1955</string>
+    <string name="leader_churchill_description">Sir Winston Leonard Spencer Churchill was a British statesman, soldier, and writer who served as Prime Minister of the United Kingdom twice. He is renowned for his leadership during World War II, where his speeches and refusal to surrender inspired British resistance.</string>
+
+    <!-- Mahatma Gandhi -->
+    <string name="leader_gandhi_title">Mahatma Gandhi</string>
+    <string name="leader_gandhi_details">Role: Indian Nationalist Leader\nActive: 1893–1948</string>
+    <string name="leader_gandhi_description">Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India\'s independence from British rule, and in turn, inspired movements for civil rights and freedom across the world.</string>
+
+    <!-- Barack Obama -->
+    <string name="leader_obama_title">Barack Obama</string>
+    <string name="leader_obama_details">Role: 44th President of the United States\nYears of Service: 2009–2017</string>
+    <string name="leader_obama_description">Barack Hussein Obama II is an American politician who served as the 44th president of the United States. A member of the Democratic Party, he was the first African-American president of the United States. He previously served as a U.S. senator from Illinois and a member of the Illinois State Senate.</string>
+
+    <!-- ===================== MUSEUMS DATA ===================== -->
+    <!-- The Louvre -->
+    <string name="museum_louvre_title">The Louvre</string>
+    <string name="museum_louvre_details">Location: Paris, France\nEstablished: 1793\nNotable Works: Mona Lisa, Venus de Milo</string>
+    <string name="museum_louvre_description">The Louvre Museum is the world\'s most-visited museum and a historic monument in Paris, France. It is the home of some of the best-known works of art. The museum is housed in the Louvre Palace, originally built as the Louvre castle in the late 12th to 13th century under Philip II.</string>
+
+    <!-- The British Museum -->
+    <string name="museum_british_title">The British Museum</string>
+    <string name="museum_british_details">Location: London, United Kingdom\nEstablished: 1753\nNotable Works: Rosetta Stone, Elgin Marbles</string>
+    <string name="museum_british_description">The British Museum is a public museum dedicated to human history, art and culture located in the Bloomsbury area of London. Its permanent collection of eight million works is among the largest and most comprehensive in existence, having been widely collected during the era of the British Empire.</string>
+
+    <!-- The Met -->
+    <string name="museum_met_title">The Met</string>
+    <string name="museum_met_details">Location: New York City, USA\nEstablished: 1870\nNotable Works: Washington Crossing the Delaware</string>
+    <string name="museum_met_description">The Metropolitan Museum of Art of New York City, colloquially "the Met", is the largest art museum in the Americas. Its permanent collection contains over two million works, divided among 17 curatorial departments.</string>
+
+
+    <!-- ===================== WONDERS DATA ===================== -->
+    <!-- The Colosseum -->
+    <string name="wonder_colosseum_title">The Colosseum</string>
+    <string name="wonder_colosseum_details">Location: Rome, Italy\nBuilt: 70–80 AD\nOriginal Name: Flavian Amphitheatre</string>
+    <string name="wonder_colosseum_description">The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age. It was used for gladiatorial contests and public spectacles.</string>
+
+    <!-- The Taj Mahal -->
+    <string name="wonder_taj_mahal_title">The Taj Mahal</string>
+    <string name="wonder_taj_mahal_details">Location: Agra, India\nBuilt: 1631–1653\nArchitect: Ustad Ahmed Lahori</string>
+    <string name="wonder_taj_mahal_description">The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.</string>
+
+    <!-- The Great Wall of China -->
+    <string name="wonder_great_wall_title">Great Wall of China</string>
+    <string name="wonder_great_wall_details">Location: China\nLength: 21,196 km (13,171 mi)\nBuilt: 7th century BC onwards</string>
+    <string name="wonder_great_wall_description">The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC.</string>
+
+    <string name="todo">TODO</string>
+</resources>
